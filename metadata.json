@@ -1,0 +1,7 @@
+{
+  "name": "Astra - Happy Birthday Experience",
+  "description": "A celestial liquid glass birthday celebration experience with photo gallery, poem, and interactive media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
