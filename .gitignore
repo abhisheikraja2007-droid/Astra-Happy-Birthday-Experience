@@ -6,3 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+*.mp4
+public/*.mp4
+
+public/bgm/
+*.mpeg
+*.mp3
